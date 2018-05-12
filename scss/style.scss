@@ -1,0 +1,22 @@
+body {
+	
+}
+
+.light-grey {
+	background-color: #f2f2f2;
+}
+
+.col-sm:nth-child(even) {
+
+	@extend .light-grey;
+}
+
+/* PADDING */
+.noPadding {
+	padding: 0 !important;
+}
+
+/* MARGIN */
+.noMargin {
+	margin: 0 !important;
+}

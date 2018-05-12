@@ -1,0 +1,10 @@
+.light-grey, .col-sm:nth-child(even) {
+  background-color: #f2f2f2; }
+
+/* PADDING */
+.noPadding {
+  padding: 0 !important; }
+
+/* MARGIN */
+.noMargin {
+  margin: 0 !important; }
